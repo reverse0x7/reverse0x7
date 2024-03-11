@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Data Analyst and Power Bi**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/rizwanshoukat](https://linktr.ee/rizwanshoukat)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/reverse0x7](https://linktr.ee/reverse0x7)
 
 - 📝 I regularly write articles on [https://trendsminder.beehiiv.com/](https://trendsminder.beehiiv.com/)
 
-- 💬 Ask me about **Python, NumPy, Pandas, Matplotlib, Power Bi**
+- 💬 Ask me about **Hacking, NumPy, Pandas, Matplotlib, Power Bi**
 
-- 📫 How to reach me **rizwanshoukat3324@gmail.com**
+- 📫 How to reach me **mubeen7544@gmail.com**
 
 - ⚡ Fun fact **"I have a profound passion for the strategic and intellectually stimulating game of chess."**
 
