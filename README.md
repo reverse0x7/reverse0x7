@@ -1,16 +1,15 @@
-![logo](https://github.com/rizwanshoukat3324/Rizwanshoukat3324/blob/main/Cover%20photo.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Mubeen Mubashar</h1>
-<h3 align="center">A passionate Data Analyst from Pakistan</h3>
+<h3 align="center">A passionate penetration tester and red teamer</h3>
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanshoukat&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanshoukat" /> </p>
 
-- 🌱 I’m currently learning **Data Analyst and Power Bi**
+- 🌱 I’m currently learning **Red Teaming**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/reverse0x7](https://linktr.ee/reverse0x7)
 
 - 📝 I regularly write articles on [https://trendsminder.beehiiv.com/](https://trendsminder.beehiiv.com/)
 
-- 💬 Ask me about **Hacking, NumPy, Pandas, Matplotlib, Power Bi**
+- 💬 Ask me about **Hacking, Networks, Penetration testing, OSINT, Social Engineering**
 
 - 📫 How to reach me **mubeen7544@gmail.com**
 
@@ -18,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rizwans60110920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizwans60110920" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rizwan-shoukat3324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizwan-shoukat3324" height="30" width="40" /></a>
-<a href="https://fb.com/rizwan-shoukat3324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizwan-shoukat3324" height="30" width="40" /></a>
-<a href="https://linktr.ee/rizwanshoukat" target="blank"><img align="center" src="https://icons8.com/icon/SAuKSoGPfNAW/linktree" alt="rizwan-shoukat3324" height="30" width="40" /></a>
+<a href="https://twitter.com/reverse0x7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizwans60110920" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/reverse0x7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizwan-shoukat3324" height="30" width="40" /></a>
+<a href="https://fb.com/reverse0x7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizwan-shoukat3324" height="30" width="40" /></a>
+<a href="https://linktr.ee/reverse0x7" target="blank"><img align="center" src="https://icons8.com/icon/SAuKSoGPfNAW/linktree" alt="rizwan-shoukat3324" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
